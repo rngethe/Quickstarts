@@ -1,5 +1,7 @@
 This is Jomres version 9.21.3 / 9.21.4 (updated May 2020)
 
+These are the Jomres Quickstarts with ALL the Core Plugins including Plugin Manager so your website will never expire.
+
 It has the lastest core plugins including the channel management plugins.
 
 For some reason this plugin "channelmanagement_framework" crashes Jomres in Wordpress so I zipped up this file and it is in the core-plugin folder. All the database tables for this plugin are installed. 
