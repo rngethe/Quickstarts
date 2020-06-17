@@ -9,10 +9,14 @@ Jomres is big, and it's powerful. It's extremely flexible and offers a huge vari
 These Quickstarts are designed to get you up and running with a complete Jomres site in just minutes. Each file corresponds to one of the following Demo installations (in fact the Quickstarts are used to create those demos).
 
 http://joomla-hotel.jomres.net/
+
 http://joomla-portal.jomres.net/en/
+
 http://wordpress-hotel.jomres.net/
+
 http://wordpress-portal.jomres.net/
-You will need a valid Jomres license key to use a Quickstart, you can get a trial license key from this page
+
+You will not need a valid Jomres license key to use these Quickstarts.
 
 Installation instructions and a video can be found here in the manual:
 
